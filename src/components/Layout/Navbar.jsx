@@ -214,7 +214,7 @@ const Navbar = () => {
                     <MenuItem
                       onClick={() => {
                         window.open(
-                          "https://video-conference-dobqfhtph-sagar-138s-projects.vercel.app/",
+                          "https://video-conference-amber.vercel.app/",
                           "_blank"
                         );
                       }}
@@ -332,7 +332,7 @@ const Navbar = () => {
                     <Tooltip title="Video Conference">
                       <IconButton
                         onClick={() => {
-                          window.open("https://video-conference-dobqfhtph-sagar-138s-projects.vercel.app/", "_blank");
+                          window.open("https://video-conference-amber.vercel.app/", "_blank");
                         }}
                         sx={{
                           color: "white",
