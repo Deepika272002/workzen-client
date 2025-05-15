@@ -177,7 +177,7 @@ const CompanyAdminDashboard = () => {
               color: 'white',
             }}
           >
-            {/* <TimelineIcon sx={{ fontSize: 40 }} /> */}
+             <TimelineIcon sx={{ fontSize: 40 }} />
             <Typography variant="h6">Hierarchy Levels</Typography>
             <Typography variant="h4">{stats.hierarchyLevels}</Typography>
           </Paper>
